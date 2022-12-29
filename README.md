@@ -1,4 +1,6 @@
 # Project
+The idea of this project is to visualize the tasks that need to be done. Very similar to Jira, but the visualization is a bit weird in there. Another goal of this project is to be able to see dependencies between tasks. "Do task A before you can start doing task B".
+Project is done using React, Node (Express) and Typescript with tests being done using Jest and Cypress.
 
 ## How to run
 
